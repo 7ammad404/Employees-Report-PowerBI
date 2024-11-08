@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bc088377-97f8-4a70-93dc-9ccf31750103)
+
 # Employees-Report-PowerBI
 
 Welcome to the Employees Report Power BI dashboard!
